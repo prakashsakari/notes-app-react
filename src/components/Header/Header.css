@@ -1,0 +1,14 @@
+.logo-img {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    border: 1px solid;
+}
+
+.header {
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.h1 {
+    color: var(--primary-text-color);
+}

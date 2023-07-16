@@ -1,0 +1,10 @@
+@import url("./styles/utility.css");
+
+:root {
+  --bg-color: #f4f4f5;
+  --primary-text-color: #030712;
+}
+
+body {
+  background-color: var(--bg-color);
+}
